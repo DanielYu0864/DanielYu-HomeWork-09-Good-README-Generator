@@ -1,7 +1,6 @@
 # DanielYu-HomeWork-9-Good-README-Generator
 
 ![gif](./utils/generator.gif)
-![screenshot](./utils/Screenshot.png)
 
 ### Project Description
 ```md
