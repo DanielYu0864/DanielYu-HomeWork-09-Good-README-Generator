@@ -1,7 +1,7 @@
 # DanielYu-HomeWork-9-Good-README-Generator
 
 ![gif](./utils/generator.gif)
-![screenshot]
+
 ### Project Description
 ```md
 A sample README-Generator that can help developer quickly create a professional README for a new project
