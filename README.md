@@ -1,4 +1,5 @@
 # DanielYu-HomeWork-9-Good-README-Generator
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ![screenshot](./utils/generator.gif)
 
@@ -29,7 +30,6 @@ npm run test
 
 ## License
 ```md
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 * MIT
 ```
 
