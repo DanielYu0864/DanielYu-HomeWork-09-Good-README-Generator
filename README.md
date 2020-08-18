@@ -1,6 +1,6 @@
 # DanielYu-HomeWork-9-Good-README-Generator
 
-![gif](./utils/generator.gif)
+![screenshot](./utils/generator.gif)
 
 ### Project Description
 ```md
@@ -14,7 +14,7 @@ npm i
 
 ### Usage
 ```md
-node index
+node index.js
 ```
 
 ### Language
@@ -29,13 +29,16 @@ npm run test
 
 ## License
 ```md
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 * MIT
 ```
 
 ## About
 * Project Home Page: https://github.com/DanielYu0864/DanielYu-HomeWork-9-Good-README-Generator
-* Project Github:  https://github.com/DanielYu0864/DanielYu-HomeWork-9-Good-README-Generator
+* Project Github: https://github.com/DanielYu0864/DanielYu-HomeWork-9-Good-README-Generator
 * Author: [`DanielYu0864`](https://github.com/DanielYu0864)
 
 ## Questions
 *  For more question please contact me: adam741963@gmail.com
+
+

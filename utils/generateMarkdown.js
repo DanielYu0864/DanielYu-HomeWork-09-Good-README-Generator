@@ -1,46 +1,47 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
-  return `# ${data.name}
+  return `# ${ data.name }
 
-![screenshot](${data.screenshot})
+![screenshot](${ data.screenshot })
 
 ### Project Description
 \`\`\`md
-${data.description}
+${ data.description }
 \`\`\`
 
 ### Install
 \`\`\`md
-${data.install}
+${ data.install }
 \`\`\`
 
 ### Usage
 \`\`\`md
-${data.usage}
+${ data.usage }
 \`\`\`
 
 ### Language
 \`\`\`md
-${data.language}
+${ data.language }
 \`\`\`
 
 ### Test
 \`\`\`md
-${data.test}
+${ data.test }
 \`\`\`
 
 ## License
 \`\`\`md
-* ${data.license}
+[![License: ${ data.license }](https://img.shields.io/badge/License-${ data.license }-blue.svg)](https://opensource.org/licenses/${ data.license })
+* ${ data.license }
 \`\`\`
 
 ## About
-* Project Home Page: ${data.homePage}
-* Project Github: ${data.github}
-* Author: [\`${data.author}\`](https://github.com/${data.author})
+* Project Home Page: ${ data.homePage }
+* Project Github: ${ data.github }
+* Author: [\`${ data.author }\`](https://github.com/${ data.author })
 
 ## Questions
-*  For more question please contact me: ${data.email}
+*  For more question please contact me: ${ data.email }
 
 
 `;

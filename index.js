@@ -45,12 +45,11 @@ const questions = [
         message: "License",
         name: "license",
         choices: [
-        "GPL",
+        "ISC",
         "MIT",
-        "Apache",
-        "BSD",
-        "MPL",
-        "LGPL"
+        "Apache-2.0",
+        "IPL-1.0",
+        "Zlib"
         ]
     },  {
         type: "input",
