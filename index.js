@@ -46,7 +46,11 @@ const questions = [
         name: "license",
         choices: [
         "GPL",
-        "MIT"
+        "MIT",
+        "Apache",
+        "BSD",
+        "MPL",
+        "LGPL"
         ]
     },  {
         type: "input",
