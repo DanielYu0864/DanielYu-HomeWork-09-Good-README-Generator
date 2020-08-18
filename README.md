@@ -28,11 +28,6 @@ Javascrpit, Node.js
 npm run test
 ```
 
-## License
-```md
-* MIT
-```
-
 ## About
 * Project Home Page: https://github.com/DanielYu0864/DanielYu-HomeWork-9-Good-README-Generator
 * Project Github: https://github.com/DanielYu0864/DanielYu-HomeWork-9-Good-README-Generator
