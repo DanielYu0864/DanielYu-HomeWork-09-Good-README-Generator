@@ -30,11 +30,6 @@ ${ data.language }
 ${ data.test }
 \`\`\`
 
-## License
-\`\`\`md
-* ${ data.license }
-\`\`\`
-
 ## About
 * Project Home Page: ${ data.homePage }
 * Project Github: ${ data.github }
